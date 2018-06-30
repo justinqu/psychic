@@ -1,0 +1,15 @@
+*{
+    width: 100%
+}
+
+body{
+
+
+}
+
+.header{
+    background: #f4f4f4;
+    border-bottom: #ccc 3px solid;
+    padding: 20px;
+    width: 95%;
+}
